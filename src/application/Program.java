@@ -51,17 +51,9 @@ public class Program {
 			System.out.println(sum);
 			
 			
-		}
-		catch (Exception e) {
+		}catch (Exception e) {
 			System.out.println();
 		}
-		
-		
-		
-		
-		
-		
 		sc.close();
 	}
-
 }
